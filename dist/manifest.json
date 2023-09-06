@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "name": "React Notes App",
+    "description": "A chrome Extension for notetaking",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Take Notes"
+    },
+    "icons": {
+        "128": "pen-solid.png"
+      }
+}
