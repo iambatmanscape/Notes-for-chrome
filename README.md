@@ -1,9 +1,9 @@
-# React + Vite
+# Chrome extension for Notes app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a chrome extension for a notes application built in react.
 
-Currently, two official plugins are available:
+First, clone or download a zip file for this repository.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Notes-for-chrome
+To make use of this, you need to go to your chrome extensions page through manage extensions.
+
+Then toggle developer mode and click on load unpacked. Then you'll be asked to go to extension's directory. Select dist folder and you're done :)
